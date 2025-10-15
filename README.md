@@ -24,8 +24,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: RAVIPRASATH K
-RegisterNumber: 212224230225
+Developed by: RAJATHURAI K
+RegisterNumber: 25016579
 */
 ```
 ```
